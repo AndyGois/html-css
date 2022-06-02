@@ -1,0 +1,23 @@
+@charset "UTF_8";
+@font-face {
+    font-family: 'droid' ;
+    src: url(fontes/idroid.otf);
+}
+body{
+    background-color:#84E1AD
+}
+header{
+    font-family: 'droid';
+    background-color: #00913f;
+      text-align: center;
+    
+}
+main{
+        min-width: 30px;
+        max-width: 1000px;
+        background-color: white;
+        margin: auto 50px auto 50px;
+}
+main img{
+    width: 100%;
+}
